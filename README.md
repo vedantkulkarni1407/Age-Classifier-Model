@@ -48,10 +48,9 @@ assessment_data/
 ## 🔍 Model Metrics
 
 Evaluated on test data using:
-- ✅ Accuracy
-- 🎯 Precision (Macro Avg)
-- 🔁 Recall (Macro Avg)
-- 🧮 F1 Score (Macro Avg)
+- ✅ Accuracy - 79.36%
+- 🎯 Precision - 81.21%
+- 🔁 Recall 79.36%
 
 ---
 
