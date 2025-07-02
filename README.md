@@ -74,11 +74,6 @@ python data_processing.py
 python train_model.py
 ```
 
----
-
-## 🙌 Appreciation
-
-I really enjoyed this assignment. It challenged me to structure a pipeline, handle a non-trivial dataset, and apply transfer learning effectively. I also got the chance to dig deeper into evaluation metrics and augmentation techniques.
 
 ---
 
